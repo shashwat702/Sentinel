@@ -162,6 +162,6 @@ Developed as part of the Honeywell Connect Hackathon.
 
 ---
 
-# 📜 License
+#  License
 
 This project is developed for educational and hackathon purposes.
